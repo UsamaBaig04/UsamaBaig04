@@ -1,10 +1,8 @@
 ## Hi there 👋
 
 <img src = 'readme_banner.png'/>
-**UsamaBaig04/UsamaBaig04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-All about me is at <a href = 'https://portfolio-alpha-nine-38.vercel.app/'>My Website</a>
+- All about me is at <a href = 'https://portfolio-alpha-nine-38.vercel.app/'>My Website</a>
 - 🔭 I’m currently working on something interesting.
 - 🌱 I’m currently learning MERN Stack
 - 👯 I’m looking to collaborate for DEV projects.
