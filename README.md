@@ -18,13 +18,13 @@
 **Frontend Development:**
 - **React** | **Next.js**
 - **Redux** | **Tailwind CSS** | **Bootstrap** | **Material UI**
-- **HTML5** | **CSS3** | **jQuery**
+- **HTML5** | **CSS3** | **Sass**
 
 **Backend Development:**
 - **Node.js** | **Express.js** | **MongoDB**
 
 **Development Tools:**
-- **npm** | **Git** | **GitHub Actions** | **Postman** | **Heroku**
+- **npm** | **Git** | **GitHub Actions** | **Postman** | **Vercel** | **Mqtt**  
 
 **Other Tools:**
 - **Brave Browser** | **Prettier**
