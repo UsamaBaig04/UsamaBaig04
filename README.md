@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img src = 'readme_banner.png'/>
+<img src = 'readme_banner2.png'/>
 
 - All about me is at <a href = 'https://portfolio-alpha-nine-38.vercel.app/'>My Website</a>
 - 🔭 I’m currently working on something interesting.
