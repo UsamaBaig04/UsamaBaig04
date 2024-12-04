@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate for DEV projects.
 - 🤔 I’m looking for help with competetive programming.
 - 💬 Ask me about Geopolitics.
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Always check your browser console before panicking. 🔧
 
 # 🚀 Skills & Tools
 
